@@ -4,13 +4,12 @@
 > Date: 2024/12/31
 
 ## Labs
-- Lab1-2048
-- Lab2-DQN
-- Lab3-PPO
-- Lab4-TD3
-## Final Project
-- Final Project
+- [Lab1-2048](Lab1)
+- [Lab2-DQN](Lab2)
+- [Lab3-PPO](Lab3)
+- [Lab4-TD3](Lab4)
+
 ## Paper Presentation
-- Paper Presentation
-## Final Exam
-- Final Exam
+- [**Efficient Learning for AlphaZero via Path Consistency (ICML'22)**](https://proceedings.mlr.press/v162/zhao22h.html)
+- [Slides](Presentation/Path_Consistency_AlphaZero.pdf)
+
